@@ -1,0 +1,25 @@
+# Older screenshots #
+
+| **Widget** | **Main screen v1.4.1** | **Inbox v1.4.1** |
+|:-----------|:-----------------------|:-----------------|
+| <a href='http://www.flickr.com/photos/dodgy/4735436876/' title='widget by Andy M Bryant, on Flickr'><img src='http://farm5.static.flickr.com/4115/4735436876_d6a73146a9_o.png' alt='widget' width='230' height='305' /></a> | <a href='http://www.flickr.com/photos/dodgy/4299651067/' title='main screen v1.4.1 by Andy M Bryant, on Flickr'><img src='http://farm5.static.flickr.com/4017/4299651067_746b6b1587_o.png' alt='main screen v1.4.1' width='324' height='484' /></a> |<a href='http://www.flickr.com/photos/dodgy/4299625001/' title='Inbox v1.4 by Andy M Bryant, on Flickr'><img src='http://farm5.static.flickr.com/4043/4299625001_01b6c3d1ef_o.png' alt='Inbox v1.4' width='324' height='483' /></a> |
+| **Due Actions v1.4.1** | **Next Actions v1.4.1**  |  **Settings**    |
+| <a href='http://www.flickr.com/photos/dodgy/4299625083/' title='Actions due next week v1.4 by Andy M Bryant, on Flickr'><img src='http://farm5.static.flickr.com/4027/4299625083_f90cbafd47_o.png' alt='Actions due next week v1.4' width='324' height='483' /></a> | <a href='http://www.flickr.com/photos/dodgy/4299625041/' title='Next Actions v1.4 by Andy M Bryant, on Flickr'><img src='http://farm5.static.flickr.com/4030/4299625041_9136c25464_o.png' alt='Next Actions v1.4' width='324' height='483' /></a> | <a href='http://www.flickr.com/photos/dodgy/3428932647/' title='settings by Andy M Bryant, on Flickr'><img src='http://farm4.static.flickr.com/3403/3428932647_efb199059e_o.png' alt='settings' width='326' height='484' /></a> |
+| **Projects expanded view** |  **Projects drilldown view** | **Project tasks** |
+| <a href='http://www.flickr.com/photos/dodgy/3429748362/' title='projects expanded view by Andy M Bryant, on Flickr'><img src='http://farm4.static.flickr.com/3354/3429748362_d858fbb113_o.png' alt='projects expanded view' width='326' height='484' /></a> | <a href='http://www.flickr.com/photos/dodgy/3428932741/' title='projects drilldown view by Andy M Bryant, on Flickr'><img src='http://farm4.static.flickr.com/3395/3428932741_767544fa30_o.png' alt='projects drilldown view' width='326' height='484' /></a> | <a href='http://www.flickr.com/photos/dodgy/3429748618/' title='project tasks by Andy M Bryant, on Flickr'><img src='http://farm4.static.flickr.com/3405/3429748618_622b414a01_o.png' alt='project tasks' width='326' height='484' /></a> |
+| **Contexts expanded view** |  **Contexts drilldown view** | **Contexts tasks** |
+| <a href='http://www.flickr.com/photos/dodgy/3428933101/' title='contexts expanded view by Andy M Bryant, on Flickr'><img src='http://farm4.static.flickr.com/3550/3428933101_ee478398fa_o.png' alt='contexts expanded view' width='326' height='484' /></a> | <a href='http://www.flickr.com/photos/dodgy/3429748650/' title='contexts drilldown view by Andy M Bryant, on Flickr'><img src='http://farm4.static.flickr.com/3662/3429748650_97b07951e5_o.png' alt='contexts drilldown view' width='326' height='484' /></a> | <a href='http://www.flickr.com/photos/dodgy/3429748710/' title='context tasks by Andy M Bryant, on Flickr'><img src='http://farm4.static.flickr.com/3405/3429748710_fd1f159459_o.png' alt='context tasks' width='326' height='484' /></a> |
+| **Edit action** | **Edit context > colour**|
+| <a href='http://www.flickr.com/photos/dodgy/3428932379/' title='edit action by Andy M Bryant, on Flickr'><img src='http://farm4.static.flickr.com/3658/3428932379_94923b42f1_o.png' alt='edit action' width='326' height='484' /></a> | <a href='http://www.flickr.com/photos/dodgy/3428933045/' title='edit context &gt; choose colour by Andy M Bryant, on Flickr'><img src='http://farm4.static.flickr.com/3394/3428933045_e4bfcd6a84_o.png' alt='edit context &gt; choose colour' width='326' height='484' /></a> |
+
+# Screenshots from the m5 pre-release SDK version #
+
+| **Inbox** | **Due Actions** |
+|:----------|:----------------|
+| ![http://android-shuffle.googlecode.com/files/Inbox.png](http://android-shuffle.googlecode.com/files/Inbox.png) | ![http://android-shuffle.googlecode.com/files/DueActions.png](http://android-shuffle.googlecode.com/files/DueActions.png) |
+| **Next Actions** | **Projects**    |
+| ![http://android-shuffle.googlecode.com/files/NextActions.png](http://android-shuffle.googlecode.com/files/NextActions.png) | ![http://android-shuffle.googlecode.com/files/Projects.png](http://android-shuffle.googlecode.com/files/Projects.png) |
+| **Contexts** | **Preferences** |
+| ![http://android-shuffle.googlecode.com/files/Contexts.png](http://android-shuffle.googlecode.com/files/Contexts.png) | ![http://android-shuffle.googlecode.com/files/Preferences.png](http://android-shuffle.googlecode.com/files/Preferences.png) |
+| **Edit action** |                 |
+| ![http://android-shuffle.googlecode.com/files/editAction.png](http://android-shuffle.googlecode.com/files/editAction.png) |                 |
